@@ -1,2 +1,3 @@
-prefix       = "fullcycle"
-cluster_name = "cluster"
+prefix         = "fullcycle"
+cluster_name   = "cluster"
+retention_days = 5
